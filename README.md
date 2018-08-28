@@ -32,9 +32,10 @@
   - Artes (Pablo)
   - Jogo estágios arte tipo Flap Bird (Olmedo)
   - Trello <https://trello.com/b/ZNKvomfG/>
-* Gabriel, Bernardo (aberto)
-  - Física (Marcelo)
-  - Simulador/Interativo (gravidade, ondas, ...)
+* Gabriel, Bernardo
+  - Física (Marcelo Zunino)
+  - Simulador/Interativo (gravidade)
+  - Trello <https://trello.com/b/aBSN9Id9>
 * Ana Clara, Laísa
   - História (Taise)
   - Jogo tabuleiro (2da guerra)
